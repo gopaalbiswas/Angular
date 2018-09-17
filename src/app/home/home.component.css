@@ -1,0 +1,27 @@
+.form-container {
+    padding: 100px 0;
+    max-width: 600px;
+    margin: auto;
+}
+
+.form-container h2 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    color: #007bff;
+    font-weight: 400;
+    margin-bottom: 30px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #ccc;
+}
+
+.form-container .form-group .form-control {
+    border-radius: 0;
+}
+
+.btn-submit {
+    background-color: #007bff;
+    border-radius: 0;
+    color: #fff;
+    margin-top: 15px;
+    padding: 10px 30px;
+}

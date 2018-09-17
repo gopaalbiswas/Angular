@@ -1,0 +1,28 @@
+.navbar h4 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+    color: #fff;
+    font-weight: 400;
+    margin: 0;
+}
+
+.main-nav li a {
+    padding-left: 15px;
+    padding-right: 15px;
+    color: #E2E2E2;
+    transition: all 0.7s ease;
+}
+
+.main-nav li a:hover {
+    color: #fff;
+}
+
+.main-nav li.active a {
+    color: #fff;
+}
+
+@media (min-width:768px) {
+    .sm-only {
+        display: none;
+    }
+}
